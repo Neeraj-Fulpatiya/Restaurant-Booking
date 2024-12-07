@@ -3,7 +3,7 @@ Welcome to the MERN Restaurant Booking project! This application provides a user
 
 
 Features:
-~ Reservation Management: Easy-to-use interface for making and managing reservations.
+~ Reservation Management: Easy-to-use interface for making and managing reservations.</br>
 ~Responsive Design: Accessible across various devices for on-the-go reservations.
 
 
